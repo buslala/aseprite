@@ -120,8 +120,6 @@ jobs:
 
         path: |
 
-          D:/a/aseprite/aseprite/build/bin/data
+          C:/a/aseprite/aseprite/build/bin/data
 
-          D:/a/aseprite/aseprite/build/bin/aseprite.exe
-
- 作者：独立游戏杂货铺 https://www.bilibili.com/read/cv27083106/?spm_id_from=333.788.0.0 出处：bilibili
+          C:/a/aseprite/aseprite/build/bin/aseprite.exe
